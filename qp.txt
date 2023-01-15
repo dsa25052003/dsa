@@ -1,0 +1,10 @@
+1.)BST.cpp
+2.)heapsort.cpp
+3.)insertionsort.cpp
+4.)max heap.cpp
+5.)mergesort.cpp
+6.)postfix.cpp
+7.)queue.cpp
+8.)sll.cpp
+9.)stackbalance.cpp
+10.)stackmain.cpp
